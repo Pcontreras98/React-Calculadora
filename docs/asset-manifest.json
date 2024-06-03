@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92b1c1fa.css",
+    "main.js": "/static/js/main.93977412.js",
+    "static/media/pabloContrerasLogo.png": "/static/media/pabloContrerasLogo.2c32fe744fdd7f13b849.png",
+    "index.html": "/index.html",
+    "main.92b1c1fa.css.map": "/static/css/main.92b1c1fa.css.map",
+    "main.93977412.js.map": "/static/js/main.93977412.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b1c1fa.css",
+    "static/js/main.93977412.js"
+  ]
+}
